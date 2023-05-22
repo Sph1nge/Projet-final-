@@ -1,4 +1,4 @@
-###### Analyse des Pertes Migratoires ######
+##### Analyse des Pertes Migratoires #####
 
 Ce projet vise à analyser les pertes migratoires à travers le monde en utilisant des données provenant de diverses bases de données. L'objectif est de visualiser et de comprendre l'ampleur de ce phénomène, en mettant en évidence les régions les plus touchées et les tendances au fil des années.
 
