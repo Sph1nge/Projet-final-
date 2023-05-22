@@ -18,7 +18,7 @@ MissingMigrants-Global-2022.csv
 
 Ces fichiers contiennent des informations sur le nombre de décès et de disparitions de migrants, ainsi que des détails sur la région concernée.
 
-# Analyse des données #
+## Analyse des données ## 
 
 Le projet comprend plusieurs visualisations des données pour faciliter la compréhension et l'interprétation des pertes migratoires. Voici un aperçu des graphiques inclus :
 
